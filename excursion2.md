@@ -2,7 +2,7 @@
 <h2>Mountain bike tour overnight on Elba</h2>
 Total time: 4 + 6 hours
 
-<iframe src="http://www.bernhard-gaul.de/gpxviewer/gpxviewerlinks.php?url={{site.baseurl}}/20131026-27.elba_tour.gpx" 
+<iframe src="http://www.bernhard-gaul.de/gpxviewer/gpxviewerlinks.php?url=https:/{{site.baseurl}}/20131026-27.elba_tour.gpx" 
 				width="100%" 
 				height="600" 
 				frameborder="1" 
