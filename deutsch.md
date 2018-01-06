@@ -1,5 +1,6 @@
 ---
 title: "Casa Campiglia #10"
+language: de
 description: "Ferienhaus: Toskana-maisonette mit grossen Terrassen und Garten in mittelalterlicher Stadt"
 date: 2018-01-06 20:30:00 -0000
 ---
