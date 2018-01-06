@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Casa Campiglia #10
-description: Toskana maisonette mit grossen Terrassen und Garten in mittelalterlicher Stadt
+name: "Casa Campiglia #10"
+description: "Toskana maisonette mit grossen Terrassen und Garten in mittelalterlicher Stadt"
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://aleip.github.io/jekyll-clean
